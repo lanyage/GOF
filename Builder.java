@@ -93,6 +93,9 @@ class Director {
     }
 }
 
+/**
+ * 用户类
+ */
 class Client {
     public static void main(String[] args) {
         Director director = new Director();
